@@ -1,0 +1,43 @@
+
+#printpdf
+{
+	    margin: 5mm 10%;
+}
+#pdf
+{
+width:100%;
+
+}
+#pdf .heading
+{
+width:116.5%;
+}
+#pdf #wrapper #headingtab
+{
+width:117.3%;
+}
+#pdf #wrapper #headinggrid
+{
+width:118.3%;
+}
+#headingcontent
+{
+width:118%;
+ margin-top: 15px;
+}
+#tabletd
+{
+width:65mm;
+}
+#titleinvoice
+{
+/*padding-left:30%;*/
+}
+#image
+{
+width:100%;
+}
+#tablenotfit
+{
+width:95%;
+}

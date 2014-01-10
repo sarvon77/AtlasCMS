@@ -11,7 +11,7 @@ $_SESSION['SHIPID']=1;
 				<div class="thumbnail" id="">
 				Invoice
 				</div>
-			</li> 
+			</li>  
 			<li class="span8" style="" >
 				<div class="thumbnail" id="" >
 					<form id="invoicedata" name="invoicedata">
